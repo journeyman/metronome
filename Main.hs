@@ -7,14 +7,17 @@ import Metronome.Input
 main :: IO ()
 main =  do
 	input <- getArgs'
+	--putStrLn "unparsed args:"
+	--print input
 	let args = parseArgs input
-	print $ "parsed args:\n" : (map show args)
+	--putStrLn "parsed args:" 
+	--print (map show args)
 	let config = getConfigFromMap . argsToMap $ args
-	print config
+	putStrLn $ "running config: \n" ++ show config
 
 getArgs' :: IO [String]
-getArgs' = getTestArgs
---getArgs' = getArgs
+--getArgs' = getTestArgs
+getArgs' = getArgs
 
 getTestArgs :: IO [String]
-getTestArgs = return ["-t=117 -b=blah"]
+getTestArgs = return ["-t=117", "-b=blah"]

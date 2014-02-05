@@ -17,4 +17,4 @@ cabal-version:       >=1.8
 executable metronome
   main-is:             Main.hs
   other-modules:       Metronome.Input
-  build-depends:       base ==4.6.*,containers
+  build-depends:       base ==4.6.*,containers,text

@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Metronome.hs",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"show ",
+				"SublimeHaskell: Show symbol info"
+			],
+			[
+				"show",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"sublime",
+				"SublimeHaskell: Typecheck build (no codegen)"
+			],
+			[
+				"sublime hask",
+				"SublimeHaskell: Run"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"haskell",
+				"Set Syntax: Haskell"
+			],
+			[
+				"run",
+				"SublimeHaskell: Run"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set synha",
+				"Set Syntax: Haskell"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"packageO",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Dropbox/Mine/Projects/hs/metronome/Metronome.hs",
+		"/E/labs/web/lab3/templates/news.tpl",
+		"/E/labs/web/lab3/templates/main_menu.tpl",
+		"/E/labs/web/lab3/Index.php",
+		"/E/labs/web/lab3/templates/main.tpl",
+		"/E/labs/web/lab3/templates/footer.tpl",
+		"/E/labs/web/lab5/4.php",
+		"/E/Programs/Dev/Tools/Sublime Text Build 3059 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/labs/web/lab3/css/basic.css",
+		"/E/labs/web/lab6/index.php",
+		"/E/labs/web/lab1/Index.html",
+		"/E/labs/web/lab1/css/styles.css",
+		"/E/labs/web/lab2/index.php",
+		"/E/labs/web/lab4/site.cfg",
+		"/E/labs/web/lab3/site.cfg",
+		"/E/Programs/Dev/Tools/Sublime Text Build 3059 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/Programs/Dev/Tools/Sublime Text Build 3059 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/labs/web/lab4/index.php",
+		"/E/labs/web/lab4/db.sql",
+		"/E/labs/web/labs_wt.zip",
+		"/E/Programs/Dev/MySQL/phpMyAdmin-4.1.4-all-languages/phpMyAdmin-4.1.4-all-languages/README",
+		"/E/labs/phpsite/index.php",
+		"/E/labs/web/lab2.php",
+		"/E/labs/web/lab1.php",
+		"/E/labs/web/Labs.sublime-project",
+		"/E/labs/web/Labs.sublime-workspace",
+		"/E/labs/web/index.html",
+		"/E/labs/web/blah.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Metronome.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "metronome.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"la",
+				"lab1.php"
+			],
+			[
+				"lap",
+				"Labs.sublime-project"
+			],
+			[
+				"i",
+				"Labs.sublime-project"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"lab1",
+				"lab1.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
